@@ -167,3 +167,12 @@ Another challenge was implementing the form reset functionality, which required 
 This project provides a simple, reusable React form that handles various input types and updates state dynamically based on user interactions. It demonstrates how to manage form data, handle validation, and reset form fields, all while maintaining a clean and responsive UI.
 
 Feel free to customize and expand this form according to your needs, including adding additional validation, custom form submissions, or integration with a backend API.
+---
+
+<div align="center">
+
+##### 🛡️ `All rights reserved by Sajib Bhattacharjee @2025`
+
+### 👨‍💻 `Created with ❤️ by -->`
+
+✨ **Sajib Bhattacharjee** ✨
