@@ -4,7 +4,7 @@
 
 ## 🌟 **Live Preview** 🌟
 
-💕 [**Form-Submission**]([https://faqs2025.netlify.app/](https://form-submission-2025.netlify.app/)) 💕  
+💕 [**Form Submission**](https://form-submission-2025.netlify.app/) 💕
 🎉 Click to explore the fun and laughter! 😄
 
 </div> 
@@ -167,6 +167,8 @@ Another challenge was implementing the form reset functionality, which required 
 This project provides a simple, reusable React form that handles various input types and updates state dynamically based on user interactions. It demonstrates how to manage form data, handle validation, and reset form fields, all while maintaining a clean and responsive UI.
 
 Feel free to customize and expand this form according to your needs, including adding additional validation, custom form submissions, or integration with a backend API.
+
+
 ---
 
 <div align="center">
@@ -176,3 +178,13 @@ Feel free to customize and expand this form according to your needs, including a
 ### 👨‍💻 `Created with ❤️ by -->`
 
 ✨ **Sajib Bhattacharjee** ✨
+
+**💖 Dedicated to "Sir! Anisul Islam" 💖**
+
+> > > > ### 🙏 Thanks a Lot for Visiting...!!!
+
+🌐 [**Portfolio & Projects**](https://github.com/Sajib-Bhattacharjee)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/)  
+📧 [**Contact Me**](mailto:sajibbhattacjarjee2000@gmail.com)
+
+</div>
